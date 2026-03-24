@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# Dataset files
+*.csv
+
+# Saved models
+*.h5
+*.keras
+*.pkl
+
+# NumPy saved arrays
+*.npy
+
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
