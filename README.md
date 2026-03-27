@@ -1,4 +1,4 @@
-🚀 Energy Prediction using Transformer (Minor Project)
+Energy Prediction using Transformer (Minor Project)
 
 ---
 
